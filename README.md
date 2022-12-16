@@ -8,6 +8,6 @@
 
 
 # Socials:
-[![image](https://user-images.githubusercontent.com/110894234/208124388-355e226d-a70d-4103-8414-27d96cfb209f.png)]([https://twitter.com/nehasahu486_](https://scholar.google.com/citations?user=JGT7_oIAAAAJ&hl=en))
+[![image](https://user-images.githubusercontent.com/110894234/208124388-355e226d-a70d-4103-8414-27d96cfb209f.png)](https://scholar.google.com/citations?user=JGT7_oIAAAAJ&hl=en)
 [![image](https://user-images.githubusercontent.com/110894234/208124286-054e87c1-cbff-441a-8481-7d83222eb9b3.png)](https://twitter.com/nehasahu486_)
-[![image](https://user-images.githubusercontent.com/110894234/208124335-2167bc7f-58d7-4379-8957-8f7e2e8958ee.png)]([https://twitter.com/nehasahu486_](https://www.linkedin.com/in/nehasahu486/))
+[![image](https://user-images.githubusercontent.com/110894234/208124335-2167bc7f-58d7-4379-8957-8f7e2e8958ee.png)](https://www.linkedin.com/in/nehasahu486/)
